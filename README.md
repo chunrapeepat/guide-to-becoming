@@ -15,7 +15,10 @@ Comming soon...
 ## 👬 Contribution Guide
 ถ้าคุณคิดว่าเนื้อหาสามารถที่จะเพิ่มเติมหรือปรับปรุงให้ดีกว่านี้ได้ คุณสามารถที่จะส่ง Pull Request มาที่นี่ได้ตลอดเวลา
 
-## 👷 Sponsors
+## 👷 Sponsored By
+- [Chun Rapeepat](https://facebook.com/chun42)
+- [NoobProgrammer Thailand Community](https://www.facebook.com/groups/noobprogrammer/)
+
 
 ## 🚦License
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
