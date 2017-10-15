@@ -1,6 +1,4 @@
-# I wanna be web developer 
-
-## Introduction
+## I want to be Web Developer
 
 ## What should I learn
 
