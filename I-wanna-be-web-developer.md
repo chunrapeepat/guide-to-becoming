@@ -11,3 +11,8 @@
 ### สิ่งที่ควรทำหลังจากศึกษาจบแล้ว
 
 ## Contributors
+
+- **Chun Rapeepat** Full-stack web developer
+  - https://thechun.xyz
+  - https://facebook.com/chun42
+  - https://github.com/chunza2542
