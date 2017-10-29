@@ -12,6 +12,20 @@
     - https://www.w3schools.com/html/
     - https://www.w3schools.com/css/
     - https://www.w3schools.com/js/
+
+- **[learning] Free Course on Codecademy** คอร์สฟรีสำหรับคนอยากเขียนเว็บ เห็นตัวอย่างเลย
+  - [Web Development](https://www.codecademy.com/catalog/subject/web-development)
+    - [Learn HTML](https://www.codecademy.com/learn/learn-html)
+    - [Learn CSS](https://www.codecademy.com/learn/learn-css)
+    - [Make a website](https://www.codecademy.com/learn/make-a-website)
+    - [Deploy a website](https://www.codecademy.com/learn/deploy-a-website)
+    - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+    - [Learn AngularJS 1.X](https://www.codecademy.com/learn/learn-angularjs) อาจจะไม่เหมาะกับเทคโนโลยีในปัจจุบัน อาจจะใช้ React, Angular, Vue ดีกว่า
+    - [Learn ReactJS Part 1](https://www.codecademy.com/learn/react-101)
+    - [Learn ReactJS Part 2](https://www.codecademy.com/learn/react-102)
+    - [Learn jQuery](https://www.codecademy.com/learn/learn-jquery) ก่อนที่ modern web application จะเกิดขึ้น jQuery เคยเป็น King of website มาก่อน แต่รูู้ไว้ก็ไม่เสียหาย เพราะ wordpress ส่วนใหญ่ยังใช้ jQuery เยอะอยู่
+    - [Learn Ruby on Rails](https://www.codecademy.com/learn/learn-rails) เป็นอีก 1 ตัวเลือกของคนชอบงานไว generate ไม่กี่ครั้งก็ได้ website ใหม่แล้ว
+    - [Ruby on Rails: Authentication](https://www.codecademy.com/learn/rails-auth) อยากได้ login ไม่กี่ click ก็ได้แล้ว ไม่มีอะไรยากสำหรับ Ruby on Rails
     
 ### สิ่งที่ควรจะศึกษาและทำความเข้าใจ
 
