@@ -42,7 +42,7 @@
 ## Contributors
 
 - **Lookkid Withee Poositasai** - Indie-veloper
-  - https://facebook.com/Th1nkK1D
-  - https://github.com/Th1nkK1D
-  - https://medium.com/@Th1nkK1D
-  - https://codepen.io/Th1nkK1D/
+  - [https://facebook.com/Th1nkK1D](https://facebook.com/Th1nkK1D)
+  - [https://github.com/Th1nkK1D](https://github.com/Th1nkK1D)
+  - [https://medium.com/@Th1nkK1D](https://medium.com/@Th1nkK1D)
+  - [https://codepen.io/Th1nkK1D/](https://codepen.io/Th1nkK1D/)
