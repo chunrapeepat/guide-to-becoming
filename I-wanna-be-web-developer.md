@@ -14,7 +14,7 @@
     - https://www.w3schools.com/js/
 
 - **[learning] Free Course on Codecademy** คอร์สฟรีสำหรับคนอยากเขียนเว็บ เห็นตัวอย่างเลย
-  - [Web Development](https://www.codecademy.com/catalog/subject/web-development)
+    - [Web Development](https://www.codecademy.com/catalog/subject/web-development)
     - [Learn HTML](https://www.codecademy.com/learn/learn-html)
     - [Learn CSS](https://www.codecademy.com/learn/learn-css)
     - [Make a website](https://www.codecademy.com/learn/make-a-website)
@@ -30,6 +30,9 @@
 ### สิ่งที่ควรจะศึกษาและทำความเข้าใจ
 
 ### สิ่งที่ควรทำหลังจากศึกษาจบแล้ว
+
+- **[[challenge] Hackerrank](https://www.hackerrank.com)** เมื่อศึกษาพื้นฐานจนเชี่ยวชาญแล้ว สิ่งต่อไปที่ควรฝึกคือ โจทย์โปรแกรมมิ่ง เพราะซอฟต์แวร์ที่ดี เกิดจากโค้ดที่ดี
+        - [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) เรียนพื้นฐานที่คุณต้องรู้ if else, การเขียน recursion และ Data Structure ที่ควรจะรู้เพื่อให้งานของคุณมีคุณภาพ
 
 ## Contributors
 
